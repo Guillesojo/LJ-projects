@@ -1,5 +1,5 @@
 Algoritmo promedio
-	Escribir "Este es un programa para hacer un promedio"
+	Escrbir "Este es un programa para hacer un promedio"
 	E
 	scribir "Inserte el primer numero"
 	Leer n1
