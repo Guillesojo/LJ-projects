@@ -1,7 +1,7 @@
 Algoritmo promedio
 	Escribir "Este es un programa para hacer un promedio"
 	
-	scribir "Inserte el primer numero"
+	Escribir "Inserte el primer numero"
 	Leer n1
 	
 	Escribir "Inserte el segundo numero"
