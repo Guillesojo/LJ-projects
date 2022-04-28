@@ -9,3 +9,11 @@ function promedio() {
   respuesta = (n1 + n2) / 2;
   document.getElementById("Boton").innerHTML = "El promedio es: " + respuesta;
 }
+
+function mult() {
+  var n1, n2, respuesta;
+  n1 = Number(prompt("Inserta el primer numero"));
+  n2 = Number(prompt("Inserta el segundo numero"));
+  respuesta = n1 * n2;
+  document.getElementById("Boton1").innerHTML = "El resultado es: " + respuesta;
+}
