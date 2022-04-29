@@ -17,3 +17,10 @@ function mult() {
   respuesta = n1 * n2;
   document.getElementById("Boton1").innerHTML = "El resultado es: " + respuesta;
 }
+
+function Numalcubo() {
+  var n1, respuesta;
+  n1 = Number(prompt("Inserta tu numero"));
+  respuesta = n1 ^ 3;
+  document.getElementById("Boton2").innerHTML = "El resultado es: " + respuesta;
+}
