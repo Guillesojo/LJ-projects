@@ -24,3 +24,11 @@ function Numalcubo() {
   respuesta = n1 ^ 3;
   document.getElementById("Boton2").innerHTML = "El resultado es: " + respuesta;
 }
+
+function AreaRec() {
+  var n1, n2, respuesta;
+  n1 = Number(prompt("Inserta la base"));
+  n2 = Number(prompt("Inserta la altura"));
+  respuesta = n1 * n2;
+  document.getElementById("Boton3").innerHTML = "El area es: " + respuesta;
+}
